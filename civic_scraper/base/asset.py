@@ -82,6 +82,7 @@ class Asset:
             self.asset_type,
             file_extension,
         )
+        print(file_name)
         if session:
             response = session.get(self.url, allow_redirects=True)
         else:

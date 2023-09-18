@@ -1,0 +1,11 @@
+legistar/__init__.py,sha256=9-_Ea0F2MocTEWK4fg8at_aFNnuAMVqoMjzShHX9oC0,43
+legistar/base.py,sha256=Z2e1g181MAA5i4tnsFp6_P66UDCrygAMl3rtr-ns-7s,12526
+legistar/bills.py,sha256=vTwKNz9NnOcw-AX4ieJN7bYBAHPVBUUo4VSqdrZaoAQ,21310
+legistar/events.py,sha256=xUhvPgKDSUggTZefb1dJ4HuEvbLNcF008GXIPC0iYBc,18353
+legistar/people.py,sha256=J3eYiLF6FHf3isJWBjAdBx0V_uHtflPW3GyFpPF0uo8,3065
+scraper_legistar-0.0.1.dist-info/AUTHORS,sha256=9cXnNMN6pQZsuxz8MIaGDZmN3Id_ejAGseqILvS7V8k,152
+scraper_legistar-0.0.1.dist-info/LICENSE,sha256=GvkcBTG0hWld2tAmJlQ178dbDHXWGGJC76Wzif7KbIY,1556
+scraper_legistar-0.0.1.dist-info/METADATA,sha256=K4XRsX6JKj6dRx1FzF3jCZNtyKQkyhOwndJmIdkeSks,843
+scraper_legistar-0.0.1.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+scraper_legistar-0.0.1.dist-info/top_level.txt,sha256=L6E7v3I-7Vz38J5ALotZN50c2JShcoCcbw-pYrsgfYs,9
+scraper_legistar-0.0.1.dist-info/RECORD,,

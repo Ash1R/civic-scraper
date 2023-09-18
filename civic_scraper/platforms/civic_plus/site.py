@@ -79,6 +79,7 @@ class Site(base.Site):
     def _skippable(self, asset, file_size, asset_list):
         if file_size:
             max_bytes = self._mb_to_bytes(file_size)
+            breakpoint()
             if float(asset.content_length) > max_bytes:
                 return True
         if asset_list:

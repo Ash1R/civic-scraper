@@ -1,0 +1,13 @@
+scrapelib/__init__.py,sha256=6R0SxuxEBEkq3UlMV33uad_ji81lB0MfoG9qCL2XOM4,22174
+scrapelib/__main__.py,sha256=IuWdz6qs6Aeg8NhFDX8a1KvWDz5bKVtmBPg17WnWz8E,1586
+scrapelib/_types.py,sha256=kTa5Y_A3Jh17T2tWcWawQMiOwmNIQpYBgqeQ3b7wqcM,836
+scrapelib/cache.py,sha256=W7ikmNUE-y63DMHDRZt72SkqofY_cK_xgfTfLNc1cRs,7803
+scrapelib/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scrapelib/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+scrapelib/tests/test_cache.py,sha256=kRI_M32gnXAps1Z7vvi4RHLHfUOHRPkRZESU35K511k,3487
+scrapelib/tests/test_scraper.py,sha256=XRN5s1qrs1JQBmn6vxj6scY0x9uZhXXNgTLlkapc0nk,14479
+scrapelib-2.2.0.dist-info/LICENSE,sha256=y3GEvZZy8uuER96HOjUVbqDol096KRzt6juZr27Q_6U,1349
+scrapelib-2.2.0.dist-info/METADATA,sha256=7FSGw41-4kGhho6RWvSkGJCyPGGpg1wPu8g6uqYViKQ,2977
+scrapelib-2.2.0.dist-info/WHEEL,sha256=7Z8_27uaHI_UZAc4Uox4PpBhQ9Y5_modZXWMxtUi4NU,88
+scrapelib-2.2.0.dist-info/entry_points.txt,sha256=AUNfQrBRIqyC9BxgorJeGr-n991PASn0YokNMAKUuvc,62
+scrapelib-2.2.0.dist-info/RECORD,,

@@ -75,6 +75,7 @@ class Runner:
                 end_date,
                 cache=cache,
             )
+            print(_collection)
             asset_collection.extend(_collection)
         metadata_file = asset_collection.to_csv(cache_obj.metadata_files_path)
         logger.info(f"Wrote asset metadata CSV: {metadata_file}")
@@ -91,11 +92,15 @@ class Runner:
         return asset_collection
 
     def _get_site_class(self, url):
+
         class_name = self._get_site_class_name(url)
         target_module = "civic_scraper.platforms"
         mod = importlib.import_module(target_module)
+
         return getattr(mod, class_name)
 
     def _get_site_class_name(self, url):
         if re.search(r"(civicplus|AgendaCenter)", url):
             return "CivicPlusSite"
+        if re.search(r"municodemeetings", url):
+            return "MunicodeSite"
